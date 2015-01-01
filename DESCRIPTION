@@ -1,0 +1,15 @@
+Package: shinysample
+Type: Package
+Title: A shiny app to illustrate sampling
+Version: 0.1
+Date: 2014-12-30
+Author: Thierry Onkelinx
+Maintainer: Thierry Onkelinx <thierry.onkelinx@inbo.be>
+Description: A shiny app to illustrate sampling
+License: GPL-3
+Imports:
+    mvtnorm,
+    plyr,
+    ggplot2
+Suggests:
+    testthat
